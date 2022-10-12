@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\vize final odevi deneme2\vize final odevi deneme2\bin\Debug\vize final odevi deneme2.exe.config
+C:\Users\Dell\source\repos\vize final odevi deneme2\vize final odevi deneme2\bin\Debug\vize final odevi deneme2.exe
+C:\Users\Dell\source\repos\vize final odevi deneme2\vize final odevi deneme2\bin\Debug\vize final odevi deneme2.pdb
+C:\Users\Dell\source\repos\vize final odevi deneme2\vize final odevi deneme2\obj\Debug\vize final odevi deneme2.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\vize final odevi deneme2\vize final odevi deneme2\obj\Debug\vize final odevi deneme2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\vize final odevi deneme2\vize final odevi deneme2\obj\Debug\vize_final_odevi_deneme2.Form1.resources
+C:\Users\Dell\source\repos\vize final odevi deneme2\vize final odevi deneme2\obj\Debug\vize_final_odevi_deneme2.Properties.Resources.resources
+C:\Users\Dell\source\repos\vize final odevi deneme2\vize final odevi deneme2\obj\Debug\vize final odevi deneme2.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\vize final odevi deneme2\vize final odevi deneme2\obj\Debug\vize final odevi deneme2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\vize final odevi deneme2\vize final odevi deneme2\obj\Debug\vize final odevi deneme2.exe
+C:\Users\Dell\source\repos\vize final odevi deneme2\vize final odevi deneme2\obj\Debug\vize final odevi deneme2.pdb
