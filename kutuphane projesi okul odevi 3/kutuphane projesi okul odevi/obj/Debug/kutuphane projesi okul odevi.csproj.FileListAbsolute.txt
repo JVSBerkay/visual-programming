@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\kutuphane projesi okul odevi\kutuphane projesi okul odevi\obj\Debug\kutuphane projesi okul odevi.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\kutuphane projesi okul odevi\kutuphane projesi okul odevi\obj\Debug\kutuphane projesi okul odevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\kutuphane projesi okul odevi\kutuphane projesi okul odevi\obj\Debug\kutuphane_projesi_okul_odevi.AnaEkran.resources
+C:\Users\Dell\source\repos\kutuphane projesi okul odevi\kutuphane projesi okul odevi\obj\Debug\kutuphane_projesi_okul_odevi.KitapEkle.resources
+C:\Users\Dell\source\repos\kutuphane projesi okul odevi\kutuphane projesi okul odevi\obj\Debug\kutuphane_projesi_okul_odevi.Properties.Resources.resources
+C:\Users\Dell\source\repos\kutuphane projesi okul odevi\kutuphane projesi okul odevi\obj\Debug\kutuphane projesi okul odevi.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\kutuphane projesi okul odevi\kutuphane projesi okul odevi\obj\Debug\kutuphane projesi okul odevi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\kutuphane projesi okul odevi\kutuphane projesi okul odevi\bin\Debug\kutuphane projesi okul odevi.exe.config
+C:\Users\Dell\source\repos\kutuphane projesi okul odevi\kutuphane projesi okul odevi\bin\Debug\kutuphane projesi okul odevi.exe
+C:\Users\Dell\source\repos\kutuphane projesi okul odevi\kutuphane projesi okul odevi\bin\Debug\kutuphane projesi okul odevi.pdb
+C:\Users\Dell\source\repos\kutuphane projesi okul odevi\kutuphane projesi okul odevi\obj\Debug\kutuphane projesi okul odevi.exe
+C:\Users\Dell\source\repos\kutuphane projesi okul odevi\kutuphane projesi okul odevi\obj\Debug\kutuphane projesi okul odevi.pdb
+C:\Users\Dell\source\repos\kutuphane projesi okul odevi\kutuphane projesi okul odevi\obj\Debug\kutuphane_projesi_okul_odevi.OgrenciEkle.resources
+C:\Users\Dell\source\repos\kutuphane projesi okul odevi\kutuphane projesi okul odevi\obj\Debug\kutuphane_projesi_okul_odevi.YazarEkle.resources
